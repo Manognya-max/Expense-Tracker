@@ -29,3 +29,20 @@ Expense-Tracker/
 2. Open the project folder.
 3. Open `index.html` in any web browser.
 4. Start adding income and expenses.
+
+## Future Enhancements
+- User login system
+- Export reports as PDF
+- Dark mode
+- Cloud database integration
+
+## Team Members
+- Manognya
+- Member 2
+- Member 3
+
+## GitHub Repository
+https://github.com/Manognya-max/Expense-Tracker
+
+## License
+This project is developed for educational purposes.
