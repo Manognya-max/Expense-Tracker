@@ -10,3 +10,9 @@ The Expense Tracker is a web application designed to help students manage their 
 - Budget alerts
 - User-friendly interface
 - Responsive design
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
