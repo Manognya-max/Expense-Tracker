@@ -16,3 +16,10 @@ The Expense Tracker is a web application designed to help students manage their 
 - CSS3
 - JavaScript
 - Git & GitHub
+
+## Project Structure
+Expense-Tracker/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
