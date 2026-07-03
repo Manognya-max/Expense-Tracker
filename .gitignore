@@ -4,3 +4,7 @@ Thumbs.db
 
 # Windows
 desktop.ini
+
+# VS Code
+.vscode/
+
