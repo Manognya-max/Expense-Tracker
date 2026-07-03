@@ -1,0 +1,48 @@
+# Expense Tracker
+
+## Project Description
+The Expense Tracker is a web application designed to help students manage their daily income and expenses. It allows users to record transactions, categorize expenses, monitor their spending, and maintain a budget.
+
+## Features
+- Add income and expenses
+- Category-wise expense tracking
+- Monthly summary
+- Budget alerts
+- User-friendly interface
+- Responsive design
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## Project Structure
+Expense-Tracker/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+
+## How to Run the Project
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open `index.html` in any web browser.
+4. Start adding income and expenses.
+
+## Future Enhancements
+- User login system
+- Export reports as PDF
+- Dark mode
+- Cloud database integration
+
+## Team Members
+- Manognya
+- Member 2
+- Member 3
+
+## GitHub Repository
+https://github.com/Manognya-max/Expense-Tracker
+
+## License
+This project is developed for educational purposes.
