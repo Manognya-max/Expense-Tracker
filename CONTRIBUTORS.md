@@ -20,7 +20,7 @@ This project was developed as part of a Web Technologies Mini Project.
 
 ---
 
-### 2. MEMBER 2
+### 2. Anusha B R
 **Role:** Frontend & JavaScript Developer
 
 **Contributions:**
@@ -32,7 +32,7 @@ This project was developed as part of a Web Technologies Mini Project.
 
 ---
 
-### 3. Member 3
+### 3. Deekshitha N 
 **Role:** UI & Reports Developer
 
 **Contributions:**
