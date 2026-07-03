@@ -8,3 +8,9 @@ desktop.ini
 # VS Code
 .vscode/
 
+# Node.js (if added later)
+node_modules/
+
+# Log files
+*.log
+
