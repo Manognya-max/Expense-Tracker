@@ -37,9 +37,9 @@ Expense-Tracker/
 - Cloud database integration
 
 ## Team Members
-- Manognya
-- Member 2
-- Member 3
+- Manognya S
+- Anusha B R
+- Deekshitha N
 
 ## GitHub Repository
 https://github.com/Manognya-max/Expense-Tracker
