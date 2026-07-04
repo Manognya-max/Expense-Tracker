@@ -1,7 +1,5 @@
 # Contributors
-
 ## Project: Expense Tracker
-
 This project was developed as part of a Web Technologies Mini Project.
 
 ---
