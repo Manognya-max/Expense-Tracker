@@ -1,4 +1,4 @@
-// Get Elements
+//Get Elements
 const form = document.getElementById("transactionForm");
 const transactionList = document.getElementById("transactionList");
 
